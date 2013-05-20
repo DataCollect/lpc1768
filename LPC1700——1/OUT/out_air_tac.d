@@ -1,0 +1,11 @@
+..\OUT\out_air_tac.o: ..\user_out\out_air_tac.c
+..\OUT\out_air_tac.o: ..\user_out\out_air_tac.h
+..\OUT\out_air_tac.o: ..\LPC1768\Drivers\include\lpc17xx_gpio.h
+..\OUT\out_air_tac.o: ..\LPC1768\Core\DeviceSupport\NXP\LPC17xx\lpc17xx.h
+..\OUT\out_air_tac.o: ..\LPC1768\Core\CoreSupport\core_cm3.h
+..\OUT\out_air_tac.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OUT\out_air_tac.o: ..\LPC1768\Core\CoreSupport\core_cmInstr.h
+..\OUT\out_air_tac.o: ..\LPC1768\Core\CoreSupport\core_cmFunc.h
+..\OUT\out_air_tac.o: ..\LPC1768\Core\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+..\OUT\out_air_tac.o: ..\LPC1768\Drivers\include\lpc_types.h
+..\OUT\out_air_tac.o: ..\LPC1768\Drivers\include\lpc17xx_pinsel.h

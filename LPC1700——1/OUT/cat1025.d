@@ -1,0 +1,11 @@
+..\OUT\cat1025.o: ..\BSP\cat1025.c
+..\OUT\cat1025.o: ..\BSP\cat1025.h
+..\OUT\cat1025.o: ..\LPC1768\Drivers\include\lpc17xx_i2c.h
+..\OUT\cat1025.o: ..\LPC1768\Core\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+..\OUT\cat1025.o: ..\LPC1768\Core\CoreSupport\core_cm3.h
+..\OUT\cat1025.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OUT\cat1025.o: ..\LPC1768\Core\CoreSupport\core_cmInstr.h
+..\OUT\cat1025.o: ..\LPC1768\Core\CoreSupport\core_cmFunc.h
+..\OUT\cat1025.o: ..\LPC1768\Core\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+..\OUT\cat1025.o: ..\LPC1768\Drivers\include\lpc_types.h
+..\OUT\cat1025.o: ..\LPC1768\Drivers\include\lpc17xx_pinsel.h

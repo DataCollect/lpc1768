@@ -1,0 +1,68 @@
+*** Creating Trace Output File '..\OUT\YG825G.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\out\startup_lpc17xx.o"'
+### List of Objects: adding '"..\out\system_lpc17xx.o"'
+### List of Objects: adding '"..\out\lpc17xx_clkpwr.o"'
+### List of Objects: adding '"..\out\lpc17xx_pinsel.o"'
+### List of Objects: adding '"..\out\lpc7xx_gpio.o"'
+### List of Objects: adding '"..\out\lpc17xx_uart.o"'
+### List of Objects: adding '"..\out\lpc17xx_timer.o"'
+### List of Objects: adding '"..\out\lpc17xx_systick.o"'
+### List of Objects: adding '"..\out\lpc17xx_adc.o"'
+### List of Objects: adding '"..\out\lpc17xx_rtc.o"'
+### List of Objects: adding '"..\out\lpc17xx_pwm.o"'
+### List of Objects: adding '"..\out\lpc17xx_dac.o"'
+### List of Objects: adding '"..\out\lpc17xx_i2c.o"'
+### List of Objects: adding '"..\out\bsp.o"'
+### List of Objects: adding '"..\out\main.o"'
+### List of Objects: adding '"..\out\user_system_init.o"'
+### List of Objects: adding '"..\out\os_app_hooks.o"'
+### List of Objects: adding '"..\out\ts_serv.o"'
+### List of Objects: adding '"..\out\ts_serv_ex.o"'
+### List of Objects: adding '"..\out\vir.o"'
+### List of Objects: adding '"..\out\serial.o"'
+### List of Objects: adding '"..\out\os_cfg_app.o"'
+### List of Objects: adding '"..\out\os_core.o"'
+### List of Objects: adding '"..\out\os_dbg.o"'
+### List of Objects: adding '"..\out\os_flag.o"'
+### List of Objects: adding '"..\out\os_int.o"'
+### List of Objects: adding '"..\out\os_mem.o"'
+### List of Objects: adding '"..\out\os_msg.o"'
+### List of Objects: adding '"..\out\os_mutex.o"'
+### List of Objects: adding '"..\out\os_pend_multi.o"'
+### List of Objects: adding '"..\out\os_prio.o"'
+### List of Objects: adding '"..\out\os_q.o"'
+### List of Objects: adding '"..\out\os_sem.o"'
+### List of Objects: adding '"..\out\os_stat.o"'
+### List of Objects: adding '"..\out\os_task.o"'
+### List of Objects: adding '"..\out\os_tick.o"'
+### List of Objects: adding '"..\out\os_time.o"'
+### List of Objects: adding '"..\out\os_tmr.o"'
+### List of Objects: adding '"..\out\os_var.o"'
+### List of Objects: adding '"..\out\os_cpu_c.o"'
+### List of Objects: adding '"..\out\os_cpu_a.o"'
+### List of Objects: adding '"..\out\cpu_core.o"'
+### List of Objects: adding '"..\out\cpu_c.o"'
+### List of Objects: adding '"..\out\cpu_a.o"'
+### List of Objects: adding '"..\out\lib_ascii.o"'
+### List of Objects: adding '"..\out\lib_math.o"'
+### List of Objects: adding '"..\out\lib_mem.o"'
+### List of Objects: adding '"..\out\lib_str.o"'
+### List of Objects: adding '"..\out\lib_mem_a.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\out\startup_lpc17xx.o" "..\out\system_lpc17xx.o" "..\out\lpc17xx_clkpwr.o" "..\out\lpc17xx_pinsel.o" "..\out\lpc7xx_gpio.o" "..\out\lpc17xx_uart.o" "..\out\lpc17xx_timer.o" "..\out\lpc17xx_systick.o" "..\out\lpc17xx_adc.o" "..\out\lpc17xx_rtc.o" "..\out\lpc17xx_pwm.o" "..\out\lpc17xx_dac.o" "..\out\lpc17xx_i2c.o" "..\out\bsp.o" "..\out\main.o" "..\out\user_system_init.o" "..\out\os_app_hooks.o" "..\out\ts_serv.o" "..\out\ts_serv_ex.o" "..\out\vir.o" "..\out\serial.o" "..\out\os_cfg_app.o" "..\out\os_core.o" "..\out\os_dbg.o" "..\out\os_flag.o" "..\out\os_int.o" "..\out\os_mem.o" "..\out\os_msg.o" "..\out\os_mutex.o" "..\out\os_pend_multi.o" "..\out\os_prio.o" "..\out\os_q.o" "..\out\os_sem.o" "..\out\os_stat.o" "..\out\os_task.o" "..\out\os_tick.o" "..\out\os_time.o" "..\out\os_tmr.o" "..\out\os_var.o" "..\out\os_cpu_c.o" "..\out\os_cpu_a.o" "..\out\cpu_core.o" "..\out\cpu_c.o" "..\out\cpu_a.o" "..\out\lib_ascii.o" "..\out\lib_math.o" "..\out\lib_mem.o" "..\out\lib_str.o" "..\out\lib_mem_a.o" 
+--library_type=microlib --strict --scatter "..\OUT\YG825G.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\YG825G.map" -o ..\OUT\YG825G.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OUT\YG825G.axf'
+### ADS-LD Command File: '..\OUT\YG825G.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OUT\YG825G.lnp', Handle=0x00001C00
+### Writing '.lnp' file
+### ADS-LD Command file '..\OUT\YG825G.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,15 @@
+..\..\OUT\hook.o: ..\CoOS\kernel\hook.c
+..\..\OUT\hook.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\hook.o: ..\CoOS\kernel\CoOS.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsConfig.h
+..\..\OUT\hook.o: ..\CoOS\portable\OsArch.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsCore.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsTask.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsServiceReq.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsError.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsTime.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsKernelHeap.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsEvent.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsMutex.h
+..\..\OUT\hook.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\hook.o: ..\CoOS\kernel\OsFlag.h

@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\LPC1768\Drivers\include -I..\LPC1768\Core\CoreSupport -I..\LPC1768\Core\DeviceSupport\NXP\LPC17xx -I..\user_out -I..\user_in -I..\user\app -I..\uC-CPU\ARM-Cortex-M3\RealView -I..\uC-CPU\Cfg\Template -I..\uC-CPU -I..\uC-CPU\ARM-Cortex-M3 -I..\uCOS-III\Ports -I..\uC-CPU\Cfg -I..\uC-LIB\Cfg\Template -I..\uC-LIB -I..\uCOS-III\Source -I..\uCOS-III\cfg -I..\uCOS-III\Ports -I..\BSP 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\NXP\LPC17xx 
+-o "..\OUT\ts_serv.o" --omf_browse "..\OUT\ts_serv.crf" --depend "..\OUT\ts_serv.d" "..\user\app\ts_serv.c"

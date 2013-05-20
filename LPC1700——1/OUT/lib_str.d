@@ -1,0 +1,9 @@
+..\OUT\lib_str.o: ..\uC-LIB\lib_str.c
+..\OUT\lib_str.o: ..\uC-LIB\lib_str.h
+..\OUT\lib_str.o: ..\uC-CPU\cpu.h
+..\OUT\lib_str.o: ..\uC-CPU\cpu_def.h
+..\OUT\lib_str.o: ..\uC-CPU\cpu_cfg.h
+..\OUT\lib_str.o: ..\uC-LIB\lib_def.h
+..\OUT\lib_str.o: ..\uC-LIB\lib_ascii.h
+..\OUT\lib_str.o: ..\user\app\app_cfg.h
+..\OUT\lib_str.o: ..\uC-LIB\lib_cfg.h

@@ -1,0 +1,12 @@
+..\OUT\cpu_core.o: ..\uC-CPU\cpu_core.c
+..\OUT\cpu_core.o: ..\uC-CPU\cpu_core.h
+..\OUT\cpu_core.o: ..\uC-CPU\cpu.h
+..\OUT\cpu_core.o: ..\uC-CPU\cpu_def.h
+..\OUT\cpu_core.o: ..\uC-CPU\cpu_cfg.h
+..\OUT\cpu_core.o: ..\uC-LIB\lib_def.h
+..\OUT\cpu_core.o: ..\uC-LIB\lib_mem.h
+..\OUT\cpu_core.o: ..\uC-CPU\cpu_core.h
+..\OUT\cpu_core.o: ..\user\app\app_cfg.h
+..\OUT\cpu_core.o: ..\uC-LIB\lib_cfg.h
+..\OUT\cpu_core.o: ..\uC-LIB\lib_str.h
+..\OUT\cpu_core.o: ..\uC-LIB\lib_ascii.h

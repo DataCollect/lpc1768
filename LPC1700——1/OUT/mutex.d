@@ -1,0 +1,15 @@
+..\..\OUT\mutex.o: ..\CoOS\kernel\mutex.c
+..\..\OUT\mutex.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\CoOS.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsConfig.h
+..\..\OUT\mutex.o: ..\CoOS\portable\OsArch.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsCore.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsTask.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsServiceReq.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsError.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsTime.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsKernelHeap.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsEvent.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsMutex.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\mutex.o: ..\CoOS\kernel\OsFlag.h

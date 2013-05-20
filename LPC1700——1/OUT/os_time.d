@@ -1,0 +1,16 @@
+..\OUT\os_time.o: ..\uCOS-III\Source\os_time.c
+..\OUT\os_time.o: ..\uCOS-III\Source\os.h
+..\OUT\os_time.o: ..\uCOS-III\cfg\os_cfg.h
+..\OUT\os_time.o: ..\uC-CPU\cpu.h
+..\OUT\os_time.o: ..\uC-CPU\cpu_def.h
+..\OUT\os_time.o: ..\uC-CPU\cpu_cfg.h
+..\OUT\os_time.o: ..\uC-CPU\cpu_core.h
+..\OUT\os_time.o: ..\uC-LIB\lib_def.h
+..\OUT\os_time.o: ..\uC-LIB\lib_mem.h
+..\OUT\os_time.o: ..\uC-CPU\cpu_core.h
+..\OUT\os_time.o: ..\user\app\app_cfg.h
+..\OUT\os_time.o: ..\uC-LIB\lib_cfg.h
+..\OUT\os_time.o: ..\uC-LIB\lib_str.h
+..\OUT\os_time.o: ..\uC-LIB\lib_ascii.h
+..\OUT\os_time.o: ..\uCOS-III\Source\os_type.h
+..\OUT\os_time.o: ..\uCOS-III\Ports\os_cpu.h

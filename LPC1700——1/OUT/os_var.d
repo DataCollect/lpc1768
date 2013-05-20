@@ -1,0 +1,16 @@
+..\OUT\os_var.o: ..\uCOS-III\Source\os_var.c
+..\OUT\os_var.o: ..\uCOS-III\Source\os.h
+..\OUT\os_var.o: ..\uCOS-III\cfg\os_cfg.h
+..\OUT\os_var.o: ..\uC-CPU\cpu.h
+..\OUT\os_var.o: ..\uC-CPU\cpu_def.h
+..\OUT\os_var.o: ..\uC-CPU\cpu_cfg.h
+..\OUT\os_var.o: ..\uC-CPU\cpu_core.h
+..\OUT\os_var.o: ..\uC-LIB\lib_def.h
+..\OUT\os_var.o: ..\uC-LIB\lib_mem.h
+..\OUT\os_var.o: ..\uC-CPU\cpu_core.h
+..\OUT\os_var.o: ..\user\app\app_cfg.h
+..\OUT\os_var.o: ..\uC-LIB\lib_cfg.h
+..\OUT\os_var.o: ..\uC-LIB\lib_str.h
+..\OUT\os_var.o: ..\uC-LIB\lib_ascii.h
+..\OUT\os_var.o: ..\uCOS-III\Source\os_type.h
+..\OUT\os_var.o: ..\uCOS-III\Ports\os_cpu.h

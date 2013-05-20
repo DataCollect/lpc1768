@@ -1,0 +1,15 @@
+..\..\OUT\port.o: ..\CoOS\portable\Keil\port.c
+..\..\OUT\port.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\port.o: ..\CoOS\kernel\CoOS.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsConfig.h
+..\..\OUT\port.o: ..\CoOS\portable\OsArch.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsCore.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsTask.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsServiceReq.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsError.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsTime.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsKernelHeap.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsEvent.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsMutex.h
+..\..\OUT\port.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\port.o: ..\CoOS\kernel\OsFlag.h

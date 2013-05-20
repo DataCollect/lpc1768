@@ -1,0 +1,15 @@
+..\..\OUT\queue.o: ..\CoOS\kernel\queue.c
+..\..\OUT\queue.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\queue.o: ..\CoOS\kernel\CoOS.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsConfig.h
+..\..\OUT\queue.o: ..\CoOS\portable\OsArch.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsCore.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsTask.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsServiceReq.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsError.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsTime.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsKernelHeap.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsEvent.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsMutex.h
+..\..\OUT\queue.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\queue.o: ..\CoOS\kernel\OsFlag.h

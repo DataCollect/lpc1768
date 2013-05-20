@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\yinge\桌面\新建文件夹\LPC1700\KEIL\YG825G.uvproj
+Project File Date:  05/12/2013
+
+<h2>Output:</h2>
+Build target 'LPC1768'
+compiling user_system_init.c...
+linking...
+Program Size: Code=17512 RO-data=960 RW-data=228 ZI-data=9740  
+FromELF: creating hex file...
+"..\OUT\YG825G.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LPC1768'
+linking...
+Program Size: Code=17512 RO-data=960 RW-data=228 ZI-data=9740  
+FromELF: creating hex file...
+"..\OUT\LPC1700.axf" - 0 Error(s), 0 Warning(s).

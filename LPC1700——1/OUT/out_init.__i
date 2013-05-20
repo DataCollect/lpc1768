@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\LPC1768\Drivers\include -I..\LPC1768\Core\CoreSupport -I..\LPC1768\Core\DeviceSupport\NXP\LPC17xx -I..\user_out -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\NXP\LPC17xx" -o "..\..\OUT\out_init.o" --omf_browse "..\..\OUT\out_init.crf" --depend "..\..\OUT\out_init.d" "..\user_out\out_init.c"

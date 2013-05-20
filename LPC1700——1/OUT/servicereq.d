@@ -1,0 +1,15 @@
+..\..\OUT\servicereq.o: ..\CoOS\kernel\serviceReq.c
+..\..\OUT\servicereq.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\CoOS.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsConfig.h
+..\..\OUT\servicereq.o: ..\CoOS\portable\OsArch.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsCore.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsTask.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsServiceReq.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsError.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsTime.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsKernelHeap.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsEvent.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsMutex.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\coocox.h
+..\..\OUT\servicereq.o: ..\CoOS\kernel\OsFlag.h
